@@ -37,16 +37,3 @@ This file contains the `MealService` class, which handles network requests to fe
 
 This file contains the data models used in the application, including `Meal` and `MealDetail`.
 
-## How to Run
-
-1. Clone the repository.
-2. Open the project in Xcode.
-3. Build and run the project on your preferred simulator or device.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [TheMealDB](https://www.themealdb.com) for providing the API for meal data.
