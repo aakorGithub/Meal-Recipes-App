@@ -2,7 +2,7 @@
 
 Meal Recipe is a SwiftUI application that allows users to browse and view details of dessert recipes fetched from TheMealDB API.
 
-## Features
+# Features
 
 - Browse a list of dessert meals.
 - View detailed information about each meal, including ingredients and instructions.
